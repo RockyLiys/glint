@@ -27,7 +27,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/shopspring/decimal v1.3.1
 	github.com/tdewolff/parse/v2 v2.5.27
-	github.com/thoas/go-funk v0.9.1
+	github.com/thoas/go-funk v0.9.2
 	github.com/tidwall/btree v1.1.0
 	github.com/urfave/cli/v2 v2.3.0
 	github.com/valyala/bytebufferpool v1.0.0
